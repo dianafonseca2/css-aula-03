@@ -1,0 +1,12 @@
+* {
+    background-color: lightblue;
+    background-image: url(http://portalwebdesigner.com/wp-content/uploads/2016/06/Exemplo-CSS-e-HTML.png);
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-position: bottom right;
+}
+
+h1 {
+    background-color: green;
+    color: white;
+}
